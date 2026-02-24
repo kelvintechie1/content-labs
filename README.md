@@ -1,6 +1,6 @@
 # Labs From My Content (Kelvin Tran)
 
-This repository started out years ago in 2020, back when I first started making content for my YouTube channel! Back then, this repository was specifically for Cisco IOS configurations. However, since then, I've expanded into books, blogging, and other types of video, alongside my YouTube content! As such, I've consolidated all of the labs from those various mediums into this repository for your viewing pleasure. Enjoy!
+This repository started out years ago in 2020, back when I first started making content for my YouTube channel! Back then, this repository was specifically for Cisco IOS configurations that were shown on my YouTube channel. However, since then, I've expanded into books, blogging, and other types of video, alongside my YouTube content! I've also expanded my content into other vendors, such as Juniper and Nokia. As such, I've consolidated all of the labs from those various mediums into this repository for your viewing pleasure. Enjoy!
 
 ---
 
