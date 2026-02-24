@@ -5,10 +5,12 @@ This repository started out years ago in 2020, back when I first started making 
 ---
 
 Files may be stored in the following formats:
-.txt files - plain text files containing individual device configurations
-Lab exports from Cisco Modeling Labs (CML), EVE-NG, and Containerlab containing all configurations for the devices
+* .txt files - plain text files containing individual device configurations
+* Lab exports from Cisco Modeling Labs (CML), EVE-NG, and Containerlab containing all configurations for the devices
 
-The configurations will be organized by month and by particular video. Note that, especially for earlier labs, this is being provided as-is with no guarantees of any kind. Things may break as time goes on and software changes - unfortunately, I simply don't have the bandwidth to go back and make sure every lab will work for time immemorial.
+The configurations will be organized by medium (e.g., YouTube, blog, etc.), timeframe, and specific post/article. 
+
+Note that, especially for earlier labs, this is being provided as-is with no guarantees of any kind. Things may break as time goes on and software changes - unfortunately, I simply don't have the bandwidth to go back and make sure every lab will work for time immemorial.
 
 YouTube Channel link - https://www.youtube.com/c/kelvintran
 Blog link - https://www.blamethe.network
